@@ -1,0 +1,4 @@
+,country,variables,AIC,BIC,LLF
+0,sweden,"('Trade (% of GDP)', 'Real effective exchange rate index (2010 = 100)', 'Unemployment, total (% of total labor force)', 'Probability of dying among youth ages 20-24 years (per 1,000)', 'Number of under-five deaths', 'Government expenditure on education as % of GDP (%)')",493.6017245761976,504.25936065759925,-238.8008622880988
+1,finland,"('Trade (% of GDP)', 'Self-employed, total (% of total employment) (modeled ILO estimate)', 'Number of under-five deaths')",495.19592594421636,501.85694849509235,-242.59796297210818
+2,japan,"('Trade (% of GDP)', 'Probability of dying among youth ages 20-24 years (per 1,000)', 'Population density (people per sq. km of land area)')",471.55406020642465,478.21508275730065,-230.77703010321233

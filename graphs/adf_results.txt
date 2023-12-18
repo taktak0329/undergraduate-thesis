@@ -1,0 +1,170 @@
+~~~~~~~~ ADF test of sweden ~~~~~~~~
+---var: productivity_swe---
+ctt:0.039294588146475205
+☝take diff of this var
+                        
+---var: Trade (% of GDP)---
+ctt:0.02985437819524983
+☝take diff of this var
+                        
+---var: Total reserves minus gold (current US$)---
+ctt:0.973087283052466
+☝take diff of this var
+                        
+---var: Real effective exchange rate index (2010 = 100)---
+ctt:0.9919386096008989
+☝take diff of this var
+                        
+---var: Self-employed, total (% of total employment) (modeled ILO estimate)---
+ctt:0.024147766962554735
+                     
+---var: Unemployment, total (% of total labor force)---
+ctt:0.018958633366989785
+                     
+---var: Ratio of female to male labor force participation rate (%) (modeled ILO estimate)---
+ctt:0.2875612556852595
+☝take diff of this var
+                        
+---var: Life expectancy at birth, total (years)---
+ctt:0.00019863028975148787
+☝take diff of this var
+                        
+---var: Probability of dying among youth ages 20-24 years (per 1,000)---
+ctt:0.03493421302288308
+                     
+---var: Number of under-five deaths---
+ctt:0.7185667748635488
+                     
+---var: Government expenditure on education as % of GDP (%)---
+ctt:0.8131023090831837
+☝take diff of this var
+                        
+---var: Government expenditure on tertiary education, PPP$ (millions)---
+ctt:0.09654717152011238
+                     
+---var: Population growth (annual %)---
+ctt:0.9978278259704972
+☝take diff of this var
+                        
+---var: Urban population (% of total population)---
+ctt:0.8558810924156732
+☝take diff of this var
+                        
+---var: Population density (people per sq. km of land area)---
+ctt:0.8669848733348346
+☝take diff of this var
+                        
+~~~~~~~~ ADF test of finland ~~~~~~~~
+---var: productivity_fin---
+ctt:0.4759759893266943
+☝take diff of this var
+                        
+---var: Trade (% of GDP)---
+ctt:0.004525809785201659
+☝take diff of this var
+                        
+---var: Total reserves minus gold (current US$)---
+ctt:0.12082006189912642
+                     
+---var: Real effective exchange rate index (2010 = 100)---
+ctt:0.13600259284998983
+                     
+---var: Self-employed, total (% of total employment) (modeled ILO estimate)---
+ctt:0.97797572821746
+☝take diff of this var
+                        
+---var: Unemployment, total (% of total labor force)---
+ctt:0.0010156541016538231
+                     
+---var: Ratio of female to male labor force participation rate (%) (modeled ILO estimate)---
+ctt:0.0020099778286088465
+☝take diff of this var
+                        
+---var: Life expectancy at birth, total (years)---
+ctt:0.7762703788202288
+☝take diff of this var
+                        
+---var: Probability of dying among youth ages 20-24 years (per 1,000)---
+ctt:0.7244891753091207
+                     
+---var: Number of under-five deaths---
+ctt:8.614392860112066e-05
+                     
+---var: Government expenditure on education as % of GDP (%)---
+ctt:0.7595458992352386
+☝take diff of this var
+                        
+---var: Government expenditure on tertiary education, PPP$ (millions)---
+ctt:0.8107266258163519
+☝take diff of this var
+                        
+---var: Population growth (annual %)---
+ctt:0.0017153046009693012
+                     
+---var: Urban population (% of total population)---
+ctt:0.9988557495075482
+☝take diff of this var
+                        
+---var: Population density (people per sq. km of land area)---
+ctt:0.07001473932137177
+                     
+~~~~~~~~ ADF test of japan ~~~~~~~~
+---var: productivity_jap---
+ctt:0.7843359812325947
+☝take diff of this var
+                        
+---var: Trade (% of GDP)---
+ctt:0.25787357390459364
+☝take diff of this var
+                        
+---var: Total reserves minus gold (current US$)---
+ctt:0.34678743649344623
+☝take diff of this var
+                        
+---var: Real effective exchange rate index (2010 = 100)---
+ctt:0.2545605984575393
+                     
+---var: Self-employed, total (% of total employment) (modeled ILO estimate)---
+ctt:0.28531957871292735
+☝take diff of this var
+                        
+---var: Unemployment, total (% of total labor force)---
+ctt:0.9489384093129959
+☝take diff of this var
+                        
+---var: Ratio of female to male labor force participation rate (%) (modeled ILO estimate)---
+ctt:0.4635910486403608
+☝take diff of this var
+                        
+---var: Life expectancy at birth, total (years)---
+ctt:0.04264461330882212
+☝take diff of this var
+                        
+---var: Probability of dying among youth ages 20-24 years (per 1,000)---
+ctt:0.8212710193986903
+☝take diff of this var
+                        
+---var: Number of under-five deaths---
+ctt:0.95702064603564
+☝take diff of this var
+                        
+---var: Government expenditure on education as % of GDP (%)---
+ctt:0.9993132369461372
+☝take diff of this var
+                        
+---var: Government expenditure on tertiary education, PPP$ (millions)---
+ctt:0.933025062685222
+☝take diff of this var
+                        
+---var: Population growth (annual %)---
+ctt:0.27096442729139003
+☝take diff of this var
+                        
+---var: Urban population (% of total population)---
+ctt:9.360425643071476e-12
+☝take diff of this var
+                        
+---var: Population density (people per sq. km of land area)---
+ctt:0.11687538455342505
+☝take diff of this var
+                        
